@@ -1,4 +1,7 @@
+cmake-build-Release/
 cmake-build-release/
 cmake-build-debug/
 .idea/
+.cache/
 *.o
+compile_commands.json
