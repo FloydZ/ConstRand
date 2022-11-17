@@ -29,7 +29,3 @@ constexpr static auto const_uniform_distribution_vector(T min, T max);
 template <typename T>
 constexpr static T const_uniform_distribution(T min, T max);
 ```
-
-TODO
----
-- generate random struct, class, maps, sets maybe through `uint8_t *` or `dynamic_cast<>` casts?
